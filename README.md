@@ -23,9 +23,9 @@ Aqui você vai encontrar tudo relacionado aos estudos e exercícios sobre **Inte
 
 ## 💡 Objetivo
 
-Desenvolver e aplicar conceitos de IA e ML por meio de exercícios práticos e visualizações interativas.
+- Desenvolver e aplicar conceitos de IA e ML por meio de exercícios práticos e visualizações interativas.
 
 ## 👨‍💻 Autora
-Nome do Aluno – Ana Cecília Silveira Fernandes
+- Nome do Aluno – Ana Cecília Silveira Fernandes
 
-Inatel – Mestrado em Telecomunicações
+- Inatel – Mestrado em Telecomunicações
