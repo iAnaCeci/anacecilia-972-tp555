@@ -25,7 +25,7 @@ Aqui você vai encontrar tudo relacionado aos estudos e exercícios sobre **Inte
 
 Desenvolver e aplicar conceitos de IA e ML por meio de exercícios práticos e visualizações interativas.
 
-## Autora
+## 👨‍💻 Autora
 Nome do Aluno – Ana Cecília Silveira Fernandes
 
 Inatel – Mestrado em Telecomunicações
