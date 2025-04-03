@@ -1,4 +1,4 @@
-# 🤖 Tp555 – Inteligência Artificial e Machine Learning 💥😜🐘
+# 🤖 Tp555 – Inteligência Artificial e Machine Learning 💥
 
 Bem-vindo(a) ao repositório dedicado à disciplina **Tp555**!  
 Aqui você vai encontrar tudo relacionado aos estudos e exercícios sobre **Inteligência Artificial (IA)** e **Machine Learning (ML)**.
